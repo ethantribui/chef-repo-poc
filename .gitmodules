@@ -1,0 +1,3 @@
+[submodule "cookbooks/auditd"]
+	path = cookbooks/auditd
+	url = https://github.com/chef-cookbooks/auditd.git
